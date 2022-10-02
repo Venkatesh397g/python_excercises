@@ -1,2 +1,2 @@
 # python_excercises
-I developed the login system by using python
+I developed a login system by using python
