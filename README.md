@@ -1,2 +1,2 @@
-# sample
-I developed the login system by using python
+# login System
+I developed simple login system by using python
