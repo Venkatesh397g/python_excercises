@@ -1,2 +1,2 @@
-# login System
-I developed simple login system by using python
+sample-works
+Here, I developed simple login system using python and 100 numpy exercises
