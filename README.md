@@ -1,2 +1,1 @@
-sample-works
-Here, I developed simple login system using python and 100 numpy exercises
+This repository consists of simple login system, which is created using python and it has 100 Numpy exercises
