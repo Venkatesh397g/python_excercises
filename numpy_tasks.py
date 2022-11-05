@@ -32,7 +32,6 @@ print(x)
 """#### 4.  How to find the memory size of any array (★☆☆) 
 (**hint**: size, itemsize)
 """
-
 # we can find size and memory size of the array by the using following command
 # for size --- variable.size
 # for itwmsize --- variale.itemsize
